@@ -1,0 +1,10 @@
+le contenu du terminal:
+SERVER:
+Nom du serveur : localhost
+Port du serveur : 5555
+recu du serveur : bien recu
+
+CLIENT:
+Port d'écoute : 5555
+recu : ma première socket
+ca vient de : /127.0.0.1:57306
